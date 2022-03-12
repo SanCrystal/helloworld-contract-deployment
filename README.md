@@ -10,7 +10,7 @@ blockgames task for web 3 training with zuri
 * ### setMessage function 
   This is a public function which takes an argument of type string
 * ### getMessage function
-  This function returns a string type, set by the setMessage function and throws an error if a wrong type is given as an argument.
+  This function returns a string type, set by the setMessage function and throws an error if empty.
   
 * ### message
   This is a state variable of type string that is publicly accessible.
